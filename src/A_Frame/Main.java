@@ -12,7 +12,7 @@ public class Main {
         frame.setSize(450,450);  // set the x-direction and y-direction of frame
         frame.setVisible(true);  // make frame visible
 
-        ImageIcon image = new ImageIcon("india_png.jpg"); // create an image icon
+        ImageIcon image = new ImageIcon("C:\\Users\\mecha\\IdeaProjects\\Java GUI\\src\\A_Frame\\Image\\india_png.jpg"); // create an image icon
         frame.setIconImage(image.getImage()); // change icon of frame
     }
 }
