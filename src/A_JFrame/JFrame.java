@@ -1,7 +1,4 @@
-package A_Frame;
-
-import javax.swing.ImageIcon;
-import java.awt.Color;
+package A_JFrame;
 
 public class JFrame {
     public static void main(String[] args) {
