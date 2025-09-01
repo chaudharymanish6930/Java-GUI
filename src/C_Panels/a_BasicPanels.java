@@ -18,7 +18,7 @@ public class a_BasicPanels {
 
         JPanel yellowPanel = new JPanel();
         yellowPanel.setBackground(Color.yellow);
-        yellowPanel.setBounds(250,0,250,250);
+        yellowPanel.setBounds(300,200,250,250);
 
 
         JFrame frame = new JFrame();
