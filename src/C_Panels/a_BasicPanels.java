@@ -5,6 +5,7 @@ import java.awt.Color;
 
 public class a_BasicPanels {
     public static void main(String[] args) {
+
         // JPanel = a GUI component that functions as a container to hold other components
 
         JPanel redPanel = new JPanel();
